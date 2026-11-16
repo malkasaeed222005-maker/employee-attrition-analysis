@@ -1,59 +1,37 @@
+# Employee Attrition Analysis Dashboard
 
-# 👥 Employee Attrition Analysis Dashboard
+## Project Overview
+This project focuses on analyzing employee attrition to understand workforce trends and identify factors that may contribute to employees leaving an organization.
 
-## 📌 Project Overview
+The dashboard helps HR teams monitor employee attrition and make data-driven decisions to improve employee retention.
 
-This project focuses on analyzing employee attrition using Power BI.
-The dashboard helps explore workforce trends, employee turnover patterns,
-and factors associated with employee attrition.
+## Objectives
+- Analyze employee attrition patterns.
+- Understand workforce trends.
+- Identify departments and job roles with employee attrition.
+- Support better employee retention strategies.
 
-## 🎯 Project Objectives
-
-- Analyze employee attrition trends.
-- Understand workforce distribution.
-- Identify patterns in employee turnover.
-- Explore factors associated with employee attrition.
-- Present HR insights through interactive visualizations.
-
-## 🛠️ Tools & Technologies
-
+## Tools Used
 - Power BI
-- Data Analysis
+- Microsoft Excel
 - Data Visualization
-- Interactive Dashboard Design
+- Data Analysis
 
-## 📊 Dashboard Highlights
-
-- Employee Count
+## Key Metrics
+- Total Employees
 - Attrition Count
 - Attrition Rate
-- Active Employee Count
-- Department-wise Attrition
-- Job Role Analysis
-- Age Group Analysis
-- Gender-wise Attrition
+- Active Employees
 
-## 📈 Key Analysis Areas
+*Note: Keep only the metrics that are actually available in your dashboard.*
 
-- Employee attrition across departments.
-- Attrition patterns across different job roles.
-- Workforce distribution by age group.
-- Employee retention and turnover trends.
+## Key Findings
+The dashboard helps identify employee attrition trends across different workforce categories and highlights areas where employee retention may need attention.
 
-## 🖼️ Dashboard Preview
+## Business Value
+This analysis can help HR teams understand workforce challenges, monitor employee turnover, and make informed decisions to improve employee retention.
 
-![Employee Attrition Dashboard](images/hr-attrition-rate.png)
+## Author
+Malka Saeed
 
-## 💡 Business Value
-
-This dashboard helps HR teams understand employee turnover patterns
-and explore areas where employee retention strategies may be improved.
-
-## 🚀 Project Purpose
-
-This project demonstrates practical skills in data analysis,
-Power BI dashboard development, and business intelligence.
-
----
-
-⭐ Thanks for visiting my project!
+**Aspiring Data Analyst | B.Tech CSE Student**

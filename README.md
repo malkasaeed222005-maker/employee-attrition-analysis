@@ -23,8 +23,6 @@ The dashboard helps HR teams monitor employee attrition and make data-driven dec
 - Attrition Rate
 - Active Employees
 
-*Note: Keep only the metrics that are actually available in your dashboard.*
-
 ## Key Findings
 The dashboard helps identify employee attrition trends across different workforce categories and highlights areas where employee retention may need attention.
 

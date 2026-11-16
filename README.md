@@ -42,7 +42,7 @@ and factors associated with employee attrition.
 
 ## 🖼️ Dashboard Preview
 
-![Employee Attrition Dashboard](images/hr=attrition-rate.png)
+![Employee Attrition Dashboard](images/hr-attrition-rate.png)
 
 ## 💡 Business Value
 
